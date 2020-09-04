@@ -8,7 +8,7 @@ const Header = () => (
       <ul id="nav-mobile" className="right hide-on-med-and-down">
         <li><a href="">Home</a></li>
         <li><a href="notes.handlebars">Saved Articles</a></li>
-        <a className="waves-effect waves-light btn-large"><i className="material-icons left">cloud</i>Scrape New Articles</a>
+        <a className="waves-effect waves-light btn-large">Scrape New Articles</a>
       </ul>
     </div>
   </nav>
